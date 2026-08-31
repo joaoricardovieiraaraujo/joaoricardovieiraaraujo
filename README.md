@@ -1,50 +1,83 @@
-# 👋 Hi, I'm João Ricardo
+# Hi 👋, I'm João Ricardo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Programming+Student;Python+Learner;Web+Development;First+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=400&lines=Programming+Student;Python+Enthusiast;Web+Development+Learner;Building+First+Projects" />
 </p>
 
----
+🚀 **Programming Student | Python & Web Development Enthusiast**  
+🇧🇷 Brazil
 
-## 🚀 Technologies I'm Learning
+I'm passionate about **technology, coding, and building solutions**.  
+Currently focused on learning **Python, Web Development**, and creating my **first projects** to grow as a developer.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+I'm always exploring new tools and sharing my learning journey.
 
 ---
 
-## 📚 About Me
+## 🌐 Where to find me
 
-- 💻 Programming student passionate about technology.
-- 🐍 Currently learning **Python** – from basics to automation.
-- 🌐 Studying **Web Development** (HTML, CSS, and soon JavaScript).
-- 🚀 Building my first personal projects to practice.
-
----
-
-## 📱 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/eo_ricard0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&to=joaoricardoaraujo79%40gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/joao-ricardo-araujo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/joaoricardovieiraaraujo" target="_blank">
+<p align="left">
+  <a href="https://github.com/joaoricardovieiraaraujo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://instagram.com/eo_ricard0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joao-ricardo-araujo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaoricardoaraujo79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting!**  
-*Keep coding, keep learning!* 🚀
+## 🧠 What I'm learning and building
+
+- 🐍 Python programming (basics to automation)
+- 🌐 Web Development (HTML, CSS, soon JavaScript)
+- 🎨 UI/UX design principles
+- 🧩 Problem-solving and logic
+- 🛠️ Version control with Git & GitHub
+- 🚀 First personal projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaoricardovieiraaraujo&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardovieiraaraujo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Every expert was once a beginner.  
+> The journey is just as important as the destination."_
+
+---
+
+⭐ Feel free to check out my repositories  
+🤝 Always open to learning and collaboration!
