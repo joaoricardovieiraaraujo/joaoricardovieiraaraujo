@@ -63,15 +63,6 @@ I'm always exploring new tools and sharing my learning journey.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaoricardovieiraaraujo&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardovieiraaraujo&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Every expert was once a beginner.  
