@@ -63,18 +63,6 @@ Estou sempre explorando novas ferramentas e compartilhando minha jornada de apre
   <img src="https://streak-stats.demolab.com/?user=joaoricardovieiraaraujo&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
-### 📈 Atividade de contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoricardovieiraaraujo&theme=tokyo-night&hide_border=true&area=true&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade" />
-</p>
-
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaoricardovieiraaraujo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus do GitHub" />
-</p>
-
 ---
 
 ## 📂 Meus repositórios
